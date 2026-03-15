@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [tourINDIA](https://indi-atour.vercel.app/)
 
-- 🌱 I’m currently learning **Web-development, Docker,Kubernetes, SQL, Data Structure and Algorithm, Amazon web services.**
+- 🌱 I’m currently learning **Web-development, Typescript, Docker,Kubernetes, SQL, Data Structure and Algorithm, Amazon web services.**
 
 - 📫 How to reach me **sumitkumar2003.lko@gmail.com**
 
