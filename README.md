@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
+<h1 align="center">Hi, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate Cloud Engineer and under process Full- stack web developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit5581&label=Profile%20views&color=0e75b6&style=flat" alt="sumit5581" /> </p>
