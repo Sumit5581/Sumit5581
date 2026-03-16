@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sumit-kumar-2449b9250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-kumar-2449b9250/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sumit_lko2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sumit_lko2003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sumit_lko2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sumit_kumar720/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Sumit_KUMAR720/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sumit_kumar720/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
