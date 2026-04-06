@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit5581&label=Profile%20views&color=0e75b6&style=flat" alt="sumit5581" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit5581" alt="sumit5581" /></a> </p>
+
 
 - 🔭 I’m currently working on [tourINDIA](https://indi-atour.vercel.app/)
 
