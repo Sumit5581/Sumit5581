@@ -34,8 +34,4 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit5581&show_icons=true&locale=en&layout=compact" alt="sumit5581" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit5581&show_icons=true&locale=en" alt="sumit5581" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit5581&" alt="sumit5581" /></p>
