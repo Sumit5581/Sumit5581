@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [tourINDIA and NexCard](https://indi-atour.vercel.app/)
+- 🔭 I’m currently working on [tourINDIA](https://indi-atour.vercel.app/) and [NexCard](https://nex-card-livid.vercel.app/)
 
 - 🌱 I’m currently learning **Web-development, Typescript, Docker, Kubernetes, SQL, Data Structure and Algorithm.**
 
