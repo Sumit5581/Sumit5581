@@ -5,12 +5,12 @@
 
 
 
-- 🚀 I'm currently working on [tourINDIA](https://indi-atour.vercel.app/) | [NexCard](https://nex-card-livid.vercel.app/)
-- 🌱 I’m currently learning **Web-development, Typescript, Docker, Kubernetes, SQL, Data Structure and Algorithm.**
+- I'm currently working on [tourINDIA](https://indi-atour.vercel.app/) | [NexCard](https://nex-card-livid.vercel.app/)
+- I’m currently learning **Web-development, Typescript, Docker, Kubernetes, SQL, Data Structure and Algorithm.**
 
-- 📫 How to reach me **sumitkumar2003.lko@gmail.com**
+- How to reach me **sumitkumar2003.lko@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Sumit5581/SumitResume/blob/main/SUMIT%20Resume%7BCommon%7D.pdf](https://github.com/Sumit5581/SumitResume/blob/main/SUMIT_resume.pdf)
+- Know about my experiences [https://github.com/Sumit5581/SumitResume/blob/main/SUMIT%20Resume%7BCommon%7D.pdf](https://github.com/Sumit5581/SumitResume/blob/main/SUMIT_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 
